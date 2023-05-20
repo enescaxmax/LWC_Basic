@@ -1,5 +1,9 @@
-# LWC_Basic
+<p align="center" >LWC_Basic</p>
 
-<div class="slds-box slds-box_small">
-<p>you can get idea from here</p>
-</div>
+<p align="center">you can get idea from here</p>
+
+
+
+<p align="center">This is a
+<strong>you can get idea from here</strong> theme and here is a
+<a href="#">link</a>.</p>
